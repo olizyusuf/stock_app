@@ -15,4 +15,6 @@ Soon add features import data from sheet and export data to txt file.
 
 ## Screenshot App
 
-![ss1](https://github.com/olizyusuf/myprofile_app/blob/master/images/myprofile_app.png?raw=true)
+![ss1](https://github.com/olizyusuf/stock_app/blob/master/screenshotapp/stockApp-0.png?raw=true)
+![ss1](https://github.com/olizyusuf/stock_app/blob/master/screenshotapp/stockApp-1.png?raw=true)\
+![ss1](https://github.com/olizyusuf/stock_app/blob/master/screenshotapp/stockApp-2.png?raw=true)
